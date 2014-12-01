@@ -1,0 +1,20 @@
+{
+  "name": "phonegap-tcs-demo",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "CC-NC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-phonegap-build": "0.0.8",
+    "grunt-zipstream": "^0.2.2",
+    "grunt-contrib-compress": "^0.12.0",
+    "load-grunt-tasks": "^1.0.0",
+    "grunt-shell": "^1.1.1",
+    "grunt-contrib-clean": "^0.6.0"
+  }
+}
